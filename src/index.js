@@ -4,6 +4,8 @@ import './index.css';
 import Body from './body/Body';
 import Navbar1 from './header/Navbar';
 import Footer from './footer/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
