@@ -8,7 +8,7 @@ function Body() {
       <header className="App-header">
         
        <img src={ha} alt='ha logo'/>
-        <h1> Hello Asir - Learn React </h1>
+        <h1> Hello Asir - Learning React </h1>
       </header>
     </div>
   );
