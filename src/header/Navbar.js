@@ -14,11 +14,11 @@ function Navbar1() {
             <Nav.Link href="#home"></Nav.Link>
             <Nav.Link href="https://vat201.com" target= "_blank">VAT Calculator</Nav.Link>
             <NavDropdown title="Socials" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">FaceBook</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">
+              <NavDropdown.Item href="https://www.facebook.com/helloasir">FaceBook</NavDropdown.Item>
+              <NavDropdown.Item href="https://instagram.com/helloasir">
                 Instagram
               </NavDropdown.Item>
-              {/* <NavDropdown.Item href="#action/3.3">Something</NavDropdown.Item> */}
+              <NavDropdown.Item href="https://helloasir.github.io/">Github</NavDropdown.Item>
               <NavDropdown.Divider />
               <NavDropdown.Item href="#action/3.4">
                 Other Projects
