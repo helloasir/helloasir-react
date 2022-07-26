@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/helloasir-react/static/css/main.fa95dbb9.css",
+    "main.js": "/helloasir-react/static/js/main.29208a64.js",
+    "static/media/ha.png": "/helloasir-react/static/media/ha.ca3bba0a14296047db94.png",
+    "index.html": "/helloasir-react/index.html",
+    "main.fa95dbb9.css.map": "/helloasir-react/static/css/main.fa95dbb9.css.map",
+    "main.29208a64.js.map": "/helloasir-react/static/js/main.29208a64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa95dbb9.css",
+    "static/js/main.29208a64.js"
+  ]
+}
